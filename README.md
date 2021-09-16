@@ -15,8 +15,8 @@ What are the trending retweets in in the dataset?
 
 
 #  Technologies 
-Git/GitHub
-Hadoop 2.7.3
+Git/GitHub,
+Hadoop 2.7.3,
 Hive 1.2.1
 Sqoop 1.4.6
 Sandbox 2.56
