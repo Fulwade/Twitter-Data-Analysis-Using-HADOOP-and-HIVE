@@ -1,7 +1,7 @@
 # Twitter-Data-Analysis-Using-HADOOP-and-HIVE
 HADOOP and HIVE Data analysis project
 
-# Discription
+# Project Overview
 
 In this project I took twitter dataset from kaggle.com
 I used ambari and I have upload files in HDFS.
@@ -9,6 +9,20 @@ I have start the hive in the sandbox.
 Then I wrote the file into a table which was created in hive.
 After this operation I performed query through I want analysis of twitter dataset.
 
+# Features
+What are the user in this twitter dataset?
+What are the trending retweets in in the dataset?
+
+
+#  Technologies 
+Git/GitHub
+Hadoop 2.7.3
+Hive 1.2.1
+Sqoop 1.4.6
+Sandbox 2.56
+
+# Contributor
+Ashish Vishnu Fulwade
 
 # Queries Which i perfrom In this project
 
@@ -22,3 +36,11 @@ After this operation I performed query through I want analysis of twitter datase
 8.Copy the output of query  in HDFS.
 9.Create table using partition.
 10.Create table using Bucket.
+
+
+# License information
+This project uses the following license:
+
+
+# References
+tinyurl.com/8b93ewdf
