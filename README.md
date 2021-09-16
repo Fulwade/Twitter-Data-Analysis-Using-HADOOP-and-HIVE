@@ -30,8 +30,8 @@ Ashish Vishnu Fulwade
 2. find out total number of users in the dataset.
 3. find out the number of users above age of 25.
 4. Find out average friends which gender is male.
-5.Do young members use mobile phones or computer for twitter browsing?
-6.Do adult members use mobile phones or computer for twitter browsing?
+5.Do young members use mobile phones or computer for twitter browsing.
+6.Do adult members use mobile phones or computer for twitter browsing.
 7.Count of twitter user for each month.
 8.Copy the output of query  in HDFS.
 9.Create table using partition.
