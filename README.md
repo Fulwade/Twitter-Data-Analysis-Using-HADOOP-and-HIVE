@@ -1,5 +1,5 @@
 
-# HADOOP and HIVE Data analysis project
+# Twitter Data analysis Using Hadoop and hive
 
 ## Project Overview
 
