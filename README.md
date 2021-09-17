@@ -39,4 +39,4 @@
 
 
 # References
-tinyurl.com/8b93ewdf
+- https://www.simplilearn.com/tutorials/hadoop-tutorial/hive
